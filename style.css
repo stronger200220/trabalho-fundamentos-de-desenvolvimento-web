@@ -1,0 +1,57 @@
+/*o corpo da pagina*/
+body{
+    margin: 0;
+    background-color:black;
+}
+/*a barra de navegação*/
+nav{
+    position:sticky;
+    top:0;
+    width: 100%;
+    padding: 10px;
+    background-color: blue;
+    
+}
+/*primeiro titulo*/
+h1{
+    text-align: justify;
+    color:blue;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    height: 6px;
+    padding:2px;
+    
+}
+/*segundo titulo*/
+h4{
+    text-align: justify;
+    color:aquamarine;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+/*itens da lista*/
+li{
+    display:inline;
+    padding:30px;
+    position: sticky;
+    top:0;
+    
+    
+}
+/*links*/
+a{
+    color:aquamarine;
+    
+}
+/*paragrafos*/
+p{
+    color: aquamarine;
+    margin:40px;
+}
+/*esse e a personalização do formulario*/
+form{
+    color:aquamarine
+}
+/*define o comportamento ao mouse estar sobre o link*/
+a:hover{
+    font-weight: bold;
+    
+}
